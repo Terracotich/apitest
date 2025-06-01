@@ -136,4 +136,8 @@ public class UserDto {
 
     public void setId(Object o) {
     }
+
+    public Long getId() {
+        return id;
+    }
 }
