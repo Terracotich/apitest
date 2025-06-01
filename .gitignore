@@ -4,6 +4,10 @@ target/
 !**/src/main/**/target/
 !**/src/test/**/target/
 OpenApiConfig.java
+mvnw
+mvnw.cmd
+pom.xml
+.mvn/wrapper
 
 ### STS ###
 .apt_generated
