@@ -7,7 +7,7 @@ OpenApiConfig.java
 mvnw
 mvnw.cmd
 pom.xml
-.mvn/wrapper
+.mvn/
 
 ### STS ###
 .apt_generated
